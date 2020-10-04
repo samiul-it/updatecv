@@ -1,0 +1,98 @@
+
+body{
+	background-image:url("back.jpg");
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+}
+
+h1{
+	color:#CE0707;
+	font-family:verdana;
+	font-size:400%;
+	text-align:center;
+	text-transform:uppercase;
+	
+	
+	border-style:groove;
+	border-color:#CE0707;
+	border-left:none;
+	border-right:none;
+	
+
+}
+
+h3{
+	color:#CE0707;
+	font-family:verdana;
+	
+	font-size:150%;
+	text-align:center;
+	
+}
+h5{
+	color:#EED70D;
+	font-family:calibri;
+	font-size:100%;
+	text-align:center;
+	
+}
+
+h2{
+	text-transform:uppercase;
+	color:#1791E2;
+	font-family:calibri;
+	font-size:150%;
+	text-align:center;
+
+	
+}
+
+#gpa{
+	color:#E57200;
+	font-family:calibri;
+	font-size:150%;
+	text-align:center;
+	
+	
+}
+
+#skills{
+	color:#16E107;
+	font-family:calibri;
+	font-size:150%;
+	text-align:center;
+	
+}
+#pl{
+	
+	color:#CF15EC;
+	font-family:calibri;
+	font-size:150%;
+	text-align:leftwards;
+
+}
+
+#pr{
+	
+	color:#DA1549;
+	font-family:calibri;
+	font-size:150%;
+	text-align:left-side;
+	
+
+}
+
+#os{
+	
+	color:#1026EF;
+	font-family:calibri;
+	font-size:150%;
+	text-align:center;
+}
+	
+.ftr{
+	
+	color:#E96E03;
+	text-align:center;
+	
+}
